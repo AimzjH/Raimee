@@ -1,0 +1,1 @@
+print("Warning Critical Failure")
